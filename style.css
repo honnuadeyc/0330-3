@@ -1,0 +1,78 @@
+header {
+}
+body {
+    text-align: left;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+body {
+}
+body {
+}
+
+
+
+body ul {
+}
+.container {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heroimg {
+    height: 300px;
+    background-image: url(../../../../OneDrive/%E6%96%87%E4%BB%B6/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%B6%B2%E7%AB%99%202/Wonder%20Women_%20Working%20Toward%20Equality%20in%20Film.png);
+    background-position: center center;
+    border-radius: 131px;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #FFF671;
+    margin-bottom: -6px;
+}
+nav {
+    text-align: center;
+    height: 60px;
+    padding-top: 1px;
+}
+nav a {
+    text-decoration: none;
+    color: #D791FC;
+    font-size: 16px;
+}
+nav a:hover {
+    color: #ED75ED;
+    font-weight: bolder;
+}
+article {
+    min-height: 100px;
+}
+.container main {
+}
+.container main {
+}
+main article h2 {
+    color: #E2595B;
+    padding-top: 5px;
+    padding-bottom: 9px;
+    border-radius: 20px;
+    padding-left: 32px;
+    background-color: #353D6D;
+    font-size: 30px;
+}
+
+
+article ul {
+    text-align: justify;
+    font-size: 25px;
+}
+article p {
+    font-size: 15px;
+}
+.imgdiv {
+    text-align: center;
+}
+.container footer h6 {
+    text-align: center;
+}
